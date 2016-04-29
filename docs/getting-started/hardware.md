@@ -123,6 +123,8 @@ A minimalistic, unobtrusive WiFi USB adapter is recommended. The low-profile hel
 A large-capacity power supply that is greater than 8000 mAh (milliAmp-hours) is recommended for full day use. Make sure that the battery has at least one 2.1 Amp USB output. A battery with a form-factor that minimizes size is recommended, to allow the patient to be as ambulatory as possible. When you have a full OpenAPS implemented and working, you will want to have multiple batteries to rotate and recharge. A battery that can deliver power while it charges is ideal as you will be able to charge it on-the-fly without shutting down and restarting the RPi2.
 
 [TeckNet® POWER BANK 9000mAh USB External Battery Backup Pack](http://www.amazon.com/gp/product/B00FBD3O2M)
+
+
 [Zendure® 2nd Gen A3 Portable Charger 10000mAh 2.1A Max Dual USB External Battery](http://www.amazon.com/Zendure-2nd-Portable-Charger-10000mAh/dp/B014RBEAQC/ref=sr_1_1?ie=UTF8&qid=1461969462&sr=8-1&keywords=zendure+a3)
 
 ### USB Cables
